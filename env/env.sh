@@ -1,0 +1,1 @@
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple torch==1.0.1 torchvision==0.2.1 pillow==6.1
